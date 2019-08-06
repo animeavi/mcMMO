@@ -300,6 +300,7 @@ public final class ItemUtils {
             case GOLDEN_CHESTPLATE:
             case GOLDEN_HELMET:
             case GOLDEN_LEGGINGS:
+            case GOLDEN_HORSE_ARMOR:
                 return true;
 
             default:
@@ -319,6 +320,7 @@ public final class ItemUtils {
             case IRON_CHESTPLATE:
             case IRON_HELMET:
             case IRON_LEGGINGS:
+            case IRON_HORSE_ARMOR:
                 return true;
 
             default:
@@ -338,6 +340,7 @@ public final class ItemUtils {
             case DIAMOND_CHESTPLATE:
             case DIAMOND_HELMET:
             case DIAMOND_LEGGINGS:
+            case DIAMOND_HORSE_ARMOR:
                 return true;
 
             default:
