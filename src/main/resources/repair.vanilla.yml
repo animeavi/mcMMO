@@ -157,6 +157,9 @@ Repairables:
     # Diamond repairables
     ###
     # Tools
+    TRIDENT:
+        MinimumLevel: 0
+        XpMultiplier: .5
     DIAMOND_SWORD:
         MinimumLevel: 0
         XpMultiplier: .5

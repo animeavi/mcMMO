@@ -493,6 +493,7 @@ public final class ItemUtils {
             case DIAMOND_PICKAXE:
             case DIAMOND_SHOVEL:
             case DIAMOND_SWORD:
+            case TRIDENT:
                 return true;
 
             default:

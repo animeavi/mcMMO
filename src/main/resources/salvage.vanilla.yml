@@ -194,6 +194,10 @@ Salvageables:
     # Diamond salvageables
     ###
     # Tools
+    TRIDENT:
+        MinimumLevel: 50
+        XpMultiplier: .5
+        MaximumQuantity: 1
     DIAMOND_SWORD:
         MinimumLevel: 50
         XpMultiplier: .5
